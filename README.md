@@ -10,6 +10,9 @@ DPF (Data Protected Format) is an **open-source**, **secure file format** design
 - **Cross-platform**: Compatible with different platforms and tools 🌍.
 
 ## Usage 📚
+```
+git clone https://github.com/cxuri/open-dpf.git
+```
 
 ### Encrypting and Decrypting Data in Java
 
