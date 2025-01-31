@@ -4,8 +4,11 @@ import java.util.List;
 public class test {
 
     public static void main(String[] args) {
-        
-        List<String> dataList = Arrays.asList("Hello, World!", "This is a test.", "Sample encrypted data.");
+        List<String> dataList = Arrays.asList(
+            "Hello, World!",
+            "This is a test.",
+            "Sample encrypted data."
+        );
 
         // Metadata information
         String description = "Sample file with encrypted data";
