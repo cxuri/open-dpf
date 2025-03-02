@@ -50,18 +50,7 @@ cd python
 python gui.py
 
 ```
-# DPF (Data Protected Format) 🔒📁
-
-DPF (Data Protected Format) is an **open-source**, **secure file format** designed for storing sensitive data such as passwords, notes, and other confidential information. By utilizing **AES-256 encryption**, it ensures that your data remains protected from unauthorized access. This makes DPF the ideal solution for securely storing personal or sensitive information. 🛡️
-
-## Features ✨
-
-- **AES-256 Encryption**: Provides robust security for your sensitive data 🔐.
-- **Open Source**: Transparent, community-driven, and free to use 🔄.
-- **Simple Format**: Easily store and manage encrypted data in a secure and portable file format 📂.
-- **Cross-platform**: Compatible with different platforms and tools 🌍.
-
-## Usage 📚
+## Usage JAVA 📚
 ```
 git clone https://github.com/cxuri/open-dpf.git
 ```
